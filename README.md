@@ -36,4 +36,6 @@ Code is released under MIT LICENSE.
 
 
 ## Cite:
+*  Chunyan Li, Jianmin Wang, Zhangming Niu, Junfeng Yao, Xiangxiang Zeng, A spatial-temporal gated attention module for molecular property prediction based on molecular geometry, Briefings in Bioinformatics, Volume 22, Issue 5, September 2021, bbab078, https://doi.org/10.1093/bib/bbab078
+
 
