@@ -51,6 +51,9 @@ Code is released under MIT LICENSE.
 
 
 ## Cite:
+
+*  Jianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil Jang, Kwang-Hwi Cho, Tao Song, Kyoung Tai No, De novo molecular design with deep molecular generative models for PPI inhibitors, Briefings in Bioinformatics, Volume 23, Issue 4, July 2022, bbac285, https://doi.org/10.1093/bib/bbac285
+
 *  Chunyan Li, Jianmin Wang, Zhangming Niu, Junfeng Yao, Xiangxiang Zeng, A spatial-temporal gated attention module for molecular property prediction based on molecular geometry, Briefings in Bioinformatics, Volume 22, Issue 5, September 2021, bbab078, https://doi.org/10.1093/bib/bbab078
 
 
