@@ -4,7 +4,7 @@ IUPAC-based large-scale molecular pre-trained  model for property prediction and
 
 
 ## Acknowledgements
-We thank the authors of C5T5: Controllable Generation of Organic Molecules with Transformers and IUPAC2Struct: Transformer-based artificial neural networks for the conversion between chemical notations for releasing their code. The code in this repository is based on their source code release (https://github.com/dhroth/c5t5 and https://github.com/sergsb/IUPAC2Struct). If you find this code useful, please consider citing their work.
+We thank the authors of C5T5: Controllable Generation of Organic Molecules with Transformers and IUPAC2Struct: Transformer-based artificial neural networks for the conversion between chemical notations, Generative Pre-Training from Molecules for releasing their code. The code in this repository is based on their source code release (https://github.com/dhroth/c5t5,  https://github.com/sanjaradylov/smiles-gpt, and https://github.com/sergsb/IUPAC2Struct). If you find this code useful, please consider citing their work.
 
 
 ## Requirements
