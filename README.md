@@ -9,9 +9,16 @@ We thank the authors of C5T5: Controllable Generation of Organic Molecules with 
 
 ## Requirements
 ```python
-Python==3.6
+Python==3.8
 RDKit==2020.03.3.0
-...
+pytorch
+torchvision
+torchaudio
+cpuonly
+tokenizers
+adapter-transformers
+pytorch-lightning
+bertviz
 ```
 
 https://github.com/rdkit/rdkit
