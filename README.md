@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/AspirinCode/iupacGPT)
+
 # iupacGPT
 IUPAC-based large-scale molecular pre-trained  model for property prediction and molecular generation
 
