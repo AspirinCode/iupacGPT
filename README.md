@@ -37,6 +37,17 @@ https://pubchem.ncbi.nlm.nih.gov/
 
 
 
+```python
+python3 scripts/iupac_classification.py checkpoints/iupac data/bbbp.csv p_np -e
+
+python3 scripts/iupac_classification_pro.py checkpoints/iupac data/bbbp.csv p_np -e
+
+python iupac_language-modeling_train.py
+
+```
+
+
+
 ## Model Metrics
 
 ### MOSES
