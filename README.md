@@ -73,6 +73,7 @@ Code is released under MIT LICENSE.
 
 ## Cite:
 
+*   Mao, J., Sui, T., Cho, KH. et al. IUPAC-GPT: an IUPAC-based large-scale molecular pre-trained model for property prediction and molecule generation. Mol Divers (2025). https://doi.org/10.1007/s11030-025-11280-w
 *  Jiashun Mao, Jianmin Wang, Cho K-H, No KT. iupacGPT: IUPAC-based large-scale molecular pre-trained model for property prediction and molecule generation. ChemRxiv. 2023. https://doi.org/10.26434/chemrxiv-2023-5kjvh
 
 *  Jianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil Jang, Kwang-Hwi Cho, Tao Song, Kyoung Tai No, De novo molecular design with deep molecular generative models for PPI inhibitors, Briefings in Bioinformatics, Volume 23, Issue 4, July 2022, bbac285, https://doi.org/10.1093/bib/bbac285
